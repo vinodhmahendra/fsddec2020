@@ -1,0 +1,12 @@
+
+public class TypeCasting {
+	
+	public static void main(String[] args) {
+		// implicit conversion
+		char a = 'A';
+		System.out.println("value of a  : " + a);
+		int b = a;
+		System.out.println("value of b :" +b);
+	}
+
+}

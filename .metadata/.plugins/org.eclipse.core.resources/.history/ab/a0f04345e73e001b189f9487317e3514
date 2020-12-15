@@ -1,0 +1,20 @@
+
+public class Assign {
+
+	public static void main(String[] args) {
+		// declare integer variables
+		int x,y;
+		//declare and assign floating point
+		float z = 3.414F;
+		
+		//declare and assign double
+		double w = 3.1415;
+		
+		//declare and assign boolean
+		boolean truth = true;
+		
+		//declare character variable
+		char c;
+	}
+
+}

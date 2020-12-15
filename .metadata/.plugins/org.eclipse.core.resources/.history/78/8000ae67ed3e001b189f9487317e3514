@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class ConvertStringToOtherTypes {
+
+	public static void main(String[] args) {
+		
+		Scanner keyboardScan = new Scanner(System.in);
+		
+		System.out.println("Enter the value int : ");
+		int x = keyboardScan.nextInt();
+
+	}
+
+}
